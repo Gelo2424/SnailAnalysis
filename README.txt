@@ -1,14 +1,19 @@
-LICZEBNOŚCI WYBRANYCH ZWIERZĄT I ROŚLIN
+CHARAKTERYSTYKA SŁUCHOTEK (UCHOWCÓW)
 
-Liczba obserwacji: 21
+Liczba obserwacji: 4177
 
 Atrybuty (kolumny):
-1. rok (ang. year)
-2. zające (ang. hares)
-3. rysie (ang. lynxes)
-4. marchew (ang. carrot)
+1. płeć (ang. sex) - cecha nominalna:
+   M - samiec (ang. male)
+   F - samica (ang. female)
+   I - jeszcze niewykształcona ze względu na zbyt młody wiek (ang. infant)
+2. długość (ang. length) [mm] - cecha ciągła
+3. średnica (ang. diameter) [mm] - cecha ciągła
+4. wysokość (ang. height) [mm] - cecha ciągła
+5. masa całkowita (ang. whole weight) [g] - cecha ciągła
+6. masa po wyjęciu z muszli (ang. shucked weight) [g] - cecha ciągła
+7. masa trzewi (ang. viscera weight) po wykrwawieniu [g] - cecha ciągła
+8. masa muszli (ang. shell weight) po osuszeniu [g] - cecha ciągła
+9. pierścienie (ang. rings) - cecha skokowa o wartościach całkowitych
 
-Kolumny oddzielone są znakami tabulacji.
-
-Pierwszy wiersz zawiera nazwy kolumn w języku angielskim poprzedzone znakiem
-komentarza (#).
+Kolumny oddzielone są przecinkami.
